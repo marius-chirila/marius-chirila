@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Marius, currently a Team manager with Application Packaging background. 
+- 👋 Hi, I’m Marius, over 10y XP in IT. Currently a SF DevOps.
 - 👀 I’m interested in DevOps, Cloud Engineering, Linux, Coding
-- 🌱 I’m currently learning GCP, Linux, DevOps Tools, Python
+- 🌱 I’m currently learning GCP, Azure, Linux, DevOps Tools, Python
 - 📫 How to reach me : marius.chirila.91@gmail.com
 
 <!---
